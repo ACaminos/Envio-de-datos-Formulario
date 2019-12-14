@@ -18,7 +18,7 @@
 
 <br>Correo electronico: <input type="text"  name="E-mail"><br>
     
-<br>Ingrese su consulta: 
+<br>Ingrese su consulta: <br> 
 <textarea name="Consulta">    </textarea><br>
 
-<br>  <input type="submit"    value="enviar">
+<br>  <input type="submit"    value="Enviar">
